@@ -1,0 +1,8 @@
+hosts:
+  - name: h-terra-0
+    ipv4_address: 10.10.10.10
+  - name: h-terra-1
+    ipv4_address: 10.10.10.11
+  - name: h-terra-2
+    ipv4_address: 10.10.10.12
+  - {name: h-terra-3, ipv4_address: 10.10.10.13 }
